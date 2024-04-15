@@ -30,7 +30,7 @@ class LoginWindow:
             "user1": "password1",
             "user2": "password2",
             "pandu": "123456",
-            "anil": "AD1234"
+            "anil": "ANIL1234"
         }
 
     def authenticate(self):
